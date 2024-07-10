@@ -16,7 +16,7 @@ Browse through the articles in this repository:
 
 1. **Androxgh0st malware botnet steals AWS, Microsoft credentials**
    - Having recently perused an article detailing the exploits of the 'Androxgh0st' malware botnet, specifically its theft of AWS and Microsoft credentials, I conducted a brief inquiry during my leisure to comprehend the scope and nature of the threat at hand.
-   - https://www.linkedin.com/pulse/androxgh0st-malware-botnet-steals-aws-microsoft-adhitya-priyanka-10ufc
+   - https://github.com/adhitya-cysec/article/blob/main/Androxgh0st_malware.md
 
 2. **Have you ever wondered how WEBP Zero Click attacks occur? This article might quench your curiosity. I invested considerable time in writing it, hoping you find it intriguing.**
    - Have you ever wondered how WEBP Zero Click attacks occur? This article might quench your curiosity. I invested considerable time in writing it, hoping you find it intriguing.
