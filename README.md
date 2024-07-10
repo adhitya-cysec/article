@@ -5,8 +5,6 @@ Welcome to my article repository! This repository contains a collection of artic
 ## Table of Contents
 - Introduction
 - Articles
-- Contributing
-- License
 
 ## Introduction
 
