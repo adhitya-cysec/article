@@ -36,7 +36,7 @@ Browse through the articles in this repository:
    - https://www.linkedin.com/pulse/tech-story-telling-series-unraveling-enigma-online-surge-priyanka-t83ae/
 8. **A Tech Story Telling Series: Trading - Decoding Market Behavior with a Cybersecurity**
    - Market is bunch a numbers and market reaction. Human reaction is guessable and have psichological pattern. Once we decode it, we can exploit it to gain profit from it. Can you decode the market movement? If you can decode what will happened with the market only just for the next 1 hours, you'll conquer the world. That is the new capture the flag.
-   - [link will be provided later]
+   - https://github.com/adhitya-cysec/article/blob/main/blog/Decoding-Market-Behavior-with-a-Cybersecurity-Mindset.md
 9. **A Tech Story Telling Series: The Zero Trust Revolution: Secure Everything, Trust Nothing—Not Even Zero Trust**
     - In a previous post, I introduced Zero Trust and shared a PDF to help you dive into its core principles. But here, we’re going to shake things up and look at Zero Trust from a fresh angle. Implementing Zero Trust often means working with multiple products and vendors—so it’s crucial to understand what that actually entails. Sure, there are powerful benefits—but what are the hidden costs? Can these challenges really be tackled, or are they bigger than we think? Let’s unravel these insights together in my latest short Tech Story Telling series article.
     - A much deeper understanding than previous post
